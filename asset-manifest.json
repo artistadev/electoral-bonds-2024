@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/electoral-bonds-2024/static/css/main.e6c13ad2.css",
+    "main.js": "/electoral-bonds-2024/static/js/main.8d5314eb.js",
+    "static/js/453.c901c319.chunk.js": "/electoral-bonds-2024/static/js/453.c901c319.chunk.js",
+    "static/media/electoral-bonds-by-party.txt": "/electoral-bonds-2024/static/media/electoral-bonds-by-party.1433bea7a9d2a2c1565c.txt",
+    "static/media/electoral-bonds-by-company.txt": "/electoral-bonds-2024/static/media/electoral-bonds-by-company.ef9b29b27fdc4da866c4.txt",
+    "index.html": "/electoral-bonds-2024/index.html",
+    "main.e6c13ad2.css.map": "/electoral-bonds-2024/static/css/main.e6c13ad2.css.map",
+    "main.8d5314eb.js.map": "/electoral-bonds-2024/static/js/main.8d5314eb.js.map",
+    "453.c901c319.chunk.js.map": "/electoral-bonds-2024/static/js/453.c901c319.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d5314eb.js"
+  ]
+}
